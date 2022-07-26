@@ -2,11 +2,8 @@
 
 <br>
 
-
-
 - 🌱 I’m currently learning Web Development and other programming languages
-
-- ⚡ My hobby: Digital Art 
+- ⚡ My hobby: Digital Art🖊️
 
 <br>
 
@@ -21,7 +18,6 @@
 </p>
 
 <br>
-
 
 <h3>Statistical Data :</h3>
 
