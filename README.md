@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Veronika</h1>
+<h1 align="center">Hi, I'm Veronika</h1>
 
 <br>
 
@@ -23,7 +23,7 @@
 <br>
 
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 
 <br>
 
