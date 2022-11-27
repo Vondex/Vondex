@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Currently learning Web Development and other programming languages
 - ⚡ My hobby: 2D and 3D Digital Art🖊️
 
 <br>
