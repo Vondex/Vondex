@@ -15,6 +15,9 @@
   <a href="https://www.instagram.com/_veronika.vn_/?hl=en" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="veronika" height="30" width="40" /></a>
+   <a href="[https://www.linkedin.com/in/veronika-naydenova-867b95249/]" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+      alt="veronika" height="30" width="40" /></a>
 </p>
 
 <br>
