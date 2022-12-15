@@ -15,9 +15,7 @@
   <a href="https://www.instagram.com/_veronika.vn_/?hl=en" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="veronika" height="30" width="40" /></a>
-  <a href="[https://www.linkedin.com/in/veronika-naydenova-867b95249/]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" height="30" width="40"> LinkedIn
-  </a> &nbsp; 
+
 </p>
 
 <br>
