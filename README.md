@@ -15,6 +15,9 @@
   <a href="https://www.instagram.com/_veronika.vn_/?hl=en" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="veronika" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center"
+      src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png"
+      alt="veronika" height="40" width="40" /></a>
 
 </p>
 
