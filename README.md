@@ -2,8 +2,8 @@
 
 <br>
 
-- 🌱 Currently learning Web Development and other programming languages
-- ⚡ My hobby: 2D and 3D Digital Art🖊️
+- Learning Cybersecurity, Web Development and other programming languages
+- My hobby: 2D and 3D Digital Art🖊️
 
 <br>
 
