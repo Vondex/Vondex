@@ -1,7 +1,3 @@
-<h2 align="center">Hi, I'm Veronika</h2>
-
-<br>
-
 - Learning Cybersecurity, Web Development and other programming languages
 - My hobby: 2D and 3D Digital Art🖊️
 
