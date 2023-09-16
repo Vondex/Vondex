@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/_veronika.vn_/?hl=en" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="veronika" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center"
-      src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png"
-      alt="veronika" height="40" width="40" /></a>
 
 </p>
 <br>
@@ -75,7 +72,15 @@
      <img align="center"
       src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"
       alt="sql" height="40" width="40" />
-  
+
+  <br>
+
+<h3 align="left">DevOps</h3>
+<p align="left">
+     <img align="center"
+      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
+      alt=mongodb" height="40" width="40" />
+
 <br>
 <br>
 
