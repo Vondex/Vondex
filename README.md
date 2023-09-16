@@ -27,11 +27,7 @@
     <img align="center"
       src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png"
       alt="firebase" height="40" width="40" />
-
-<br>
-<h3 align="left">Java Script</h3>
-<p align="left">
-     <img align="center"
+  <img align="center"
       src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"
       alt="js" height="40" width="40" />
    <img align="center"
