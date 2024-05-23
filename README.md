@@ -52,14 +52,19 @@
 
 <br>
 
-<h3 align="left">C#</h3>
+<h3 align="left">.NET</h3>
 <p align="left">
      <img align="center"
       src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"
       alt="c#" height="40" width="40" />
+  
+<br>
+
+<h3 align="left">System Programming</h3>
+<p align="left">
      <img align="center"
-      src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"
-      alt=".net" height="40" width="40" />
+      src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"
+      alt="c" height="40" width="40" />
   
 <br>
 
