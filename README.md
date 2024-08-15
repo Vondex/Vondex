@@ -1,9 +1,4 @@
-- Learning Cybersecurity, Web Development and other programming languages
-- My hobbies: 2D and 3D Digital Art🖊️, photography📷 and sports🏊‍♀️🏃‍♀️
-
-<br>
-
-<h2 align="left">Technologies:</h2>
+<h1 align="left">Technologies:</h1>
 <h3 align="left">Web Development</h3>
 <p align="left">
      <img align="center"
