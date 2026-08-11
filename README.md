@@ -26,7 +26,7 @@
 </p>
 <br>
 
-<h3 align="left">Also worked with (Web Development background)</h3>
+<h3 align="left">Web Development background</h3>
 <p align="left">
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" height="28" />
   <img align="center" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" height="28" />
