@@ -17,14 +17,6 @@
 </p>
 <br>
 
-<h3 align="left">Systems & Scripting</h3>
-<p align="left">
-  <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="28" />
-  <img align="center" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash" height="28" />
-  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="28" />
-  <img align="center" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c" height="28" />
-</p>
-<br>
 
 <h3 align="left">Web Development background</h3>
 <p align="left">
